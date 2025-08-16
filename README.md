@@ -46,7 +46,7 @@ DROP PROCEDURE IF EXISTS procedure_name;
 ------------------------------------
 Include files: q1.sql … q5.sql + README.txt  
 Zip as: lab2.zip and upload on Moodle.  
-Git Repo Link: [   ]
+Git Repo Link: [ https://github.com/swarajkumar001/2025202016_lab2  ]
 
 ------------------------------------
  Notes
